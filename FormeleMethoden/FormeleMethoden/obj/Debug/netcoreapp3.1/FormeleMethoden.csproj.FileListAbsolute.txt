@@ -1,0 +1,13 @@
+C:\Users\qgame\Documents\TI-jaar3\FormeleMethoden\TI-3.4-FormeleMethoden\FormeleMethoden\FormeleMethoden\bin\Debug\netcoreapp3.1\FormeleMethoden.exe
+C:\Users\qgame\Documents\TI-jaar3\FormeleMethoden\TI-3.4-FormeleMethoden\FormeleMethoden\FormeleMethoden\bin\Debug\netcoreapp3.1\FormeleMethoden.deps.json
+C:\Users\qgame\Documents\TI-jaar3\FormeleMethoden\TI-3.4-FormeleMethoden\FormeleMethoden\FormeleMethoden\bin\Debug\netcoreapp3.1\FormeleMethoden.runtimeconfig.json
+C:\Users\qgame\Documents\TI-jaar3\FormeleMethoden\TI-3.4-FormeleMethoden\FormeleMethoden\FormeleMethoden\bin\Debug\netcoreapp3.1\FormeleMethoden.runtimeconfig.dev.json
+C:\Users\qgame\Documents\TI-jaar3\FormeleMethoden\TI-3.4-FormeleMethoden\FormeleMethoden\FormeleMethoden\bin\Debug\netcoreapp3.1\FormeleMethoden.dll
+C:\Users\qgame\Documents\TI-jaar3\FormeleMethoden\TI-3.4-FormeleMethoden\FormeleMethoden\FormeleMethoden\bin\Debug\netcoreapp3.1\FormeleMethoden.pdb
+C:\Users\qgame\Documents\TI-jaar3\FormeleMethoden\TI-3.4-FormeleMethoden\FormeleMethoden\FormeleMethoden\obj\Debug\netcoreapp3.1\FormeleMethoden.csprojAssemblyReference.cache
+C:\Users\qgame\Documents\TI-jaar3\FormeleMethoden\TI-3.4-FormeleMethoden\FormeleMethoden\FormeleMethoden\obj\Debug\netcoreapp3.1\FormeleMethoden.AssemblyInfoInputs.cache
+C:\Users\qgame\Documents\TI-jaar3\FormeleMethoden\TI-3.4-FormeleMethoden\FormeleMethoden\FormeleMethoden\obj\Debug\netcoreapp3.1\FormeleMethoden.AssemblyInfo.cs
+C:\Users\qgame\Documents\TI-jaar3\FormeleMethoden\TI-3.4-FormeleMethoden\FormeleMethoden\FormeleMethoden\obj\Debug\netcoreapp3.1\FormeleMethoden.csproj.CoreCompileInputs.cache
+C:\Users\qgame\Documents\TI-jaar3\FormeleMethoden\TI-3.4-FormeleMethoden\FormeleMethoden\FormeleMethoden\obj\Debug\netcoreapp3.1\FormeleMethoden.dll
+C:\Users\qgame\Documents\TI-jaar3\FormeleMethoden\TI-3.4-FormeleMethoden\FormeleMethoden\FormeleMethoden\obj\Debug\netcoreapp3.1\FormeleMethoden.pdb
+C:\Users\qgame\Documents\TI-jaar3\FormeleMethoden\TI-3.4-FormeleMethoden\FormeleMethoden\FormeleMethoden\obj\Debug\netcoreapp3.1\FormeleMethoden.genruntimeconfig.cache

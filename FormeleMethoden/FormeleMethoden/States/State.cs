@@ -4,7 +4,8 @@ using System.Text;
 
 namespace FormeleMethoden.States
 {
-    class State
+    abstract class State
     {
+        public abstract bool check(char incomingChar);
     }
 }

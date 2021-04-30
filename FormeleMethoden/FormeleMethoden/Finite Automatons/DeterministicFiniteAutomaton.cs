@@ -8,21 +8,24 @@ namespace FormeleMethoden.Finite_Automatons
     class DeterministicFiniteAutomaton
     {
         private List<Char> _alphabet;
-        private List<DFAState> _states;
+        private List<State> _states;
 
-        public DeterministicFiniteAutomaton(List<Char> alphabet)
+        public DeterministicFiniteAutomaton(List<Char> alphabet, List<State> states)
         {
             this._alphabet = alphabet;
+            this._states = states;
         }
 
         public bool accept(string s)
         {
             if (checkAlphabet(s))
             {
-                foreach (char c in s)
+                foreach(State state in _states)
                 {
-                    Console.WriteLine(c);
+                
+
                 }
+               
             }
        
             return false;
